@@ -1,0 +1,71 @@
+.LogoSidebar{
+    height: 65px;
+    border-bottom:solid 1px #C8CBD9;
+}
+
+.LogoSidebar span{
+    color: #1F384C;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0.5px;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.list{
+  /*padding: 10px 20px;*/
+}
+.header-menu{
+    color: #082431;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 11px;
+    letter-spacing: 1px;
+}
+
+li{
+    list-style: none;
+    /*background-color: red;*/
+    padding: 10px;
+}
+
+.group{
+    padding: 10px 20px;
+}
+
+.menu{
+    transition: all 0.3s;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menu span{
+    color: #273240;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px; /* 100% */
+    letter-spacing: 0.5px;
+}
+
+.menu i{
+    color: #c4c7db;
+}
+
+.menu:hover{
+    background-color: #e4e7f5;
+    border-radius: 10px;
+
+
+}
+.menu:hover a > *{
+    color: #5A6ACF;
+}

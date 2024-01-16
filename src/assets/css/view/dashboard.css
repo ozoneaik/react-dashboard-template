@@ -1,0 +1,36 @@
+.card-header{
+    margin-bottom: 30px !important;
+}
+
+.value{
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 140% */
+    letter-spacing: 0.5px;
+    margin-bottom: 0;
+}
+
+.rate, .rate .up, .rate i {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 12px;
+    letter-spacing: 0.5px;
+}
+.rate {
+    color: #737B8B;
+}
+.rate .up, .rate i {
+    color: #149D52;
+}
+.graph-header{
+    color: #000;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px; /* 161.538% */
+    letter-spacing: 0.5px;
+}
+
